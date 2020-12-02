@@ -1,0 +1,14 @@
+{
+    "fullName": "Joseph Joestar",
+    "street": "21 Street",
+    "state": "Texas",
+    "country": "USA",
+    "telephone": "+310293742",
+    "email": "90sfan@aol.com",
+    "dob": "February 12,1976",
+    "nationalities": ["Dutch", "Swedish"],
+    "languages":[["Dutch","native"],["Swedish","fluent"],["English","fluent"]],
+    "itSkills":["MS Access", "MySQL"],
+    "otherSkills":"Fastfood connoisseur",
+    "interests":["Sailing","Sleeping"]
+}
