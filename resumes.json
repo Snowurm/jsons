@@ -2,9 +2,7 @@
     {
         "profilePicture": "https://www.cbpp.org/sites/default/files/thumbnails/image/danilo_trisi-500x500.jpg",
         "fullName": "Joseph Joestar",
-        "street": "21 Street",
-        "state": "Texas",
-        "country": "USA",
+        "address":["21 Street","Texas","USA"],
         "telephone": "+310293742",
         "email": "90sfan@aol.com",
         "dob": "February 12,1976",
