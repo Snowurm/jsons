@@ -1,14 +1,20 @@
-{
-    "fullName": "Joseph Joestar",
-    "street": "21 Street",
-    "state": "Texas",
-    "country": "USA",
-    "telephone": "+310293742",
-    "email": "90sfan@aol.com",
-    "dob": "February 12,1976",
-    "nationalities": ["Dutch", "Swedish"],
-    "languages":[["Dutch","native"],["Swedish","fluent"],["English","fluent"]],
-    "itSkills":["MS Access", "MySQL"],
-    "otherSkills":"Fastfood connoisseur",
-    "interests":["Sailing","Sleeping"]
-}
+[
+    {
+        "fullName": "Joseph Joestar",
+        "street": "21 Street",
+        "state": "Texas",
+        "country": "USA",
+        "telephone": "+310293742",
+        "email": "90sfan@aol.com",
+        "dob": "February 12,1976",
+        "nationalities": ["Dutch", "Swedish"],
+        "languages":[["Dutch","native"],["Swedish","fluent"],["English","fluent"]],
+        "itSkills":["MS Access", "MySQL"],
+        "otherSkills":"Fastfood connoisseur",
+        "interests":["Sailing","Sleeping"],
+        "education":[["1994 - 2000","Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat veniam accusantium debitis error aperiam quis!"],["1994 - 2000","Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas commodi facilis animi doloremque obcaecati odit inventore ab cupiditate libero aut."]],
+        "experience":[["1994 - 2000","Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat veniam accusantium debitis error aperiam quis!"],["1994 - 2000","Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas commodi facilis animi doloremque obcaecati odit inventore ab cupiditate libero aut."]],
+        "extraExp":[["1994 - 2000","Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat veniam accusantium debitis error aperiam quis!"],["1994 - 2000","Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas commodi facilis animi doloremque obcaecati odit inventore ab cupiditate libero aut."]],
+        "awards":[["1994 - 2000","Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat veniam accusantium debitis error aperiam quis!"],["1994 - 2000","Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas commodi facilis animi doloremque obcaecati odit inventore ab cupiditate libero aut."]]
+    }
+]
